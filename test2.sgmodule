@@ -7,4 +7,4 @@ hostname = *:0
 
 [Script]
 # 替换响应
-res=type=http-response,pattern=*,script-path=https://raw.githubusercontent.com/congcong564/script-tool/main/test.js,requires-body=1
+res=type=http-request,pattern=*,script-path=https://raw.githubusercontent.com/congcong564/script-tool/main/test2.js,requires-body=1
