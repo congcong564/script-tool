@@ -3,7 +3,7 @@
 #!category=TestCategory
 
 [MITM]
-hostname = *.microsoft.com
+hostname =*.microsoft.com
 
 [Script]
 # 替换响应
